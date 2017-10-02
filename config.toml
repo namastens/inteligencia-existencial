@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Inteligencia Existencial"
+theme = "hugo-theme-zen"
+
+DefaultContentLanguage = "es"
+
+
