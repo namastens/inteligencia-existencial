@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "namastens.github.io"
 languageCode = "es"
 title = "Inteligencia Existencial"
 theme = "hugo-theme-zen"
-publishDir = "docs"
+publishDir = "public"
 
 DefaultContentLanguage = "es"
 
