@@ -1,7 +1,7 @@
 ---
 title: "Primer Mantra"
 date: 2017-10-01T15:45:14-07:00
-draft: true
+draft: false
 ---
 
 ```

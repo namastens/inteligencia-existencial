@@ -1,7 +1,7 @@
 ---
 title: "Instrucciones Preliminares"
 date: 2017-10-01T15:47:16-07:00
-draft: true
+draft: false
 ---
 
 # Instrucciones preliminares para la meditación

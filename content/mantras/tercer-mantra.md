@@ -1,7 +1,7 @@
 ---
 title: "Tercer Mantra"
 date: 2017-10-01T17:02:03-07:00
-draft: true
+draft: false
 ---
 
 ## MERA MAN LOCHE

@@ -1,4 +1,4 @@
-baseURL = "namastens.github.io"
+baseURL = "https://namastens.github.io/namastens"
 languageCode = "es"
 title = "Inteligencia Existencial"
 theme = "hugo-theme-zen"

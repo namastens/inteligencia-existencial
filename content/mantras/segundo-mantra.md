@@ -1,7 +1,7 @@
 ---
 title: "Segundo Mantra"
 date: 2017-10-01T16:29:09-07:00
-draft: true
+draft: false
 ---
 
 _“SI UN SER HUMANO REPITE CONTINUAMENTE EL NOMBRE DE DIOS, TODO EL SE VUELVE PURO”_ -  (RAMAKRISHNA).
