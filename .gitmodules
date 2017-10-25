@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:namastens/namastens.github.io.git
+	branch = master
+[submodule "themes/hugo-theme-zen"]
+	path = themes/hugo-theme-zen
+	url = https://github.com/frjo/hugo-theme-zen.git
