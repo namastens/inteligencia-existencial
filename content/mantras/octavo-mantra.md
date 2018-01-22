@@ -7,7 +7,7 @@ draft: false
 ## "Aham Brahmasmí"
 ### _YO SOY LA INFINITA REALIDAD_
 
-{{< youtube 9K3PfugaMJ0 >}}
+{{< youtube 25jTq5q9xTg >}}
 
 ![](/images/mantra8-1.jpg)
 
