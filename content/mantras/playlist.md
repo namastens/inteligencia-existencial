@@ -6,5 +6,4 @@ draft: false
 
 # Playlist de mantras
 
-{{< spotify https://open.spotify.com/user/myrna_ochoa1/playlist/26yzUas3QpPAlUotbSoVxQ />}}
-
+{{< spotify "https://open.spotify.com/user/myrna_ochoa1/playlist/26yzUas3QpPAlUotbSoVxQ?si=4LZR26DxRRuJYLFXJbQu1g" >}}
